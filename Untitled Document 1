@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>resume</title>
+</head>
+
+<body bgcolor="pink">
+<img src="/home/6CSE1/Pictures/images.png" align="right" style="width:130px;height:130px;">
+<br/>
+
+<h1>Anushaa R</h1>
+<a href="mailto:anushaar@gmail.com">anushaar@gmail.com</a>
+<p>+91-123456789</p>
+
+<hr/>
+<h3>CV HIGHLIGHTS</h3>
+<ul>
+<li>learnt basic python,javascript,html,css on codeacademy.com.</li>
+<li>good listener</li>
+<li>enthusiastic</li>
+<li>good laadership qualities</li>
+</ul>
+<hr/>
+<h3>EDUCATIONAL QUALIFICATION</h3>
+<table border="2">
+		<tr>
+		<th>name of the Institution</th>
+		<th>Qualifcation</th>
+		<th>Board</th>
+		<th>Percentage/Grades</th>
+		<th>Year</th></tr>
+<tr>
+<td>Poorna Prajna Education Center</td>
+<td> SSLC</td>
+<td>State</td>
+<td>92.41%</td>
+<td>2015</td>
+</tr>
+<tr>
+<td>Nagarjuna Pre-university College</td>
+<td>PUC</td>
+<td>State</td>
+<td>89.46%</td>
+<td>2017</td></tr>
+<tr>
+<td>Presidency University</td>
+<td> B.Tech</td>
+<td>Autonomous</td>
+<td>persuing</td>
+<td>2021</td>
+</tr>
+</table>
+<br/>
+<hr/>
+<h3>EXPERIENCE</h3>
+<h5>TRADELOT,DevOps Engineer</H5>
+<ul>
+<li>create and maintain fully automate CI/CD pipeliens for code deployment using octopus deploy and powershell.</li>
+<li>actively managed,improved,and monitored cloud infrastructure.</li>
+<li>eliminated unnecessary servers and consolidated databases.</li>
+</ul>
+<hr/>
+
+
